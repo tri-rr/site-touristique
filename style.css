@@ -1,0 +1,71 @@
+body{
+  
+}
+
+.top{
+ 
+  background-image: url(Cotonou.webp);
+  background-size: cover;
+  height:500px;
+  border-top-left-radius: 15px;
+  border-top-right-radius:15px ;
+  
+}
+.top-content{
+  color: white;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 150px;
+}
+
+#h1content{
+  background:rgb(88, 68, 107);
+
+}
+#h2content{
+  background: rgb(54, 49, 53);
+  padding:10px ;
+}
+.medium-img{
+  width: 150px;
+  border-radius: 100%;
+}
+.medium{
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  justify-content:space-between;
+}
+.medium-title{
+  text-align: center;
+}
+.T-img{
+  width: 200px;
+}
+.guide{
+  display: flex;
+  width: 500px;
+  margin-top: 50px;
+  background: aqua;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 16px;
+  border: none;
+  border-bottom: 6px solid palevioletred;
+  margin-bottom: 100px;
+}
+.text{
+  padding:15px;
+  text-align: center;
+}
+.side-bar{
+  display:block;
+  text-align: center;
+
+}
+.p-places{
+  text-align: center;
+}
